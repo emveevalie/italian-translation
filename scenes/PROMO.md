@@ -100,7 +100,7 @@ bb({eyes:"look"});
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h:  Heh sì, è carino, Io---
+h:  Heh sì, è carino, io---
 
 ```
 hong({mouth:"shock", eyes:"shock"});
