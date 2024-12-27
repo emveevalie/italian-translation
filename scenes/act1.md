@@ -357,7 +357,7 @@ b: Fidati del tuo istinto! I tuoi sentimenti sono sempre validi!
 
 n: FAI ARRIVARE LA BARRA DELL'ENERGIA DELLA TUA UMANA A ZERO
 
-n: PER PROTEGGERE I LORO BISOGNI FISICI + SOCIALI + MORALI PUOI USARE: 
+n: PER PROTEGGERE I SUOI BISOGNI FISICI + SOCIALI + MORALI PUOI USARE: 
 
 n: PAURA DI *ESSERE FERITI* #harm#
 
@@ -418,7 +418,7 @@ b: Ma quello strambo non organizza una festa *ogni* weekend?
 
 `bb({eyes:"uncertain_right"});`
 
-b: Che vuoti interiori starà cercando di colmare? Devono essere messi veramente male!
+b: Che vuoti interiori starà cercando di colmare? Deve essere messo veramente male!
 
 `hong({eyes:"surprise"});`
 
@@ -479,7 +479,7 @@ b: Sempre che non servano PANE BIANCO
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: DIO, se ti farà stare zitta va bene.
+h: DIO MIO, se ti farà stare zitta va bene.
 
 h: Dirò di sì
 
@@ -524,7 +524,7 @@ b: In più non possiamo andare alla festa, dobbiamo lavorare o saremo un terribi
 
 `hong({mouth:"anger", eyes:"anger"});`
 
-h: DIO, se ti farà stare zitta va bene.
+h: DIO MIO, se ti farà stare zitta va bene.
 
 h: Dirò di no.
 
@@ -561,13 +561,13 @@ h: mi chiedo proprio perché.
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-b: Quindi andando li faremmo stare male, ma rifiutando  l'invito staranno male comunque!
+b: Quindi andando li faremmo stare male, ma rifiutando l'invito staranno male comunque!
 
 `bb({body:"fear", eyes:"fear"});`
 
 `Game.OVERRIDE_TEXT_SPEED = 1.5;`
 
-b: L'UNICA COSA CHE FACCIAMO È  FAR STAR MALE LE PERSONE, QUINDI DOVREMMO STARE MALE
+b: L'UNICA COSA CHE FACCIAMO È FAR STAR MALE LE PERSONE, QUINDI DOVREMMO STARE MALE
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -824,7 +824,7 @@ hong({mouth:"anger", eyes:"anger"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-h: Zitta zitta accetteremo l'invito!
+h: Zitta zitta, accetteremo l'invito!
 
 (#act1f)
 
