@@ -59,19 +59,19 @@ hong({body:"0_sammich"});
 ```
 
 {{if window.HACK_REPLAY.act1_ending=="fight"}}
-b: Ci faranno raggomitolare su noi stessi e piangere!
+b: Ci farà raggomitolare su noi stessi e piangere!
 {{/if}}
 
 {{if window.HACK_REPLAY.act1_ending=="flight"}}
-b: Ci faranno uccidere il tuo telefono per averti dato un attacco di panico!
+b: Ci farà uccidere il tuo telefono per averti dato un attacco di panico!
 {{/if}}
 
 {{if window.HACK_REPLAY.a2_ending=="fight"}}
-b: Ci faranno *NON* tirare un pugno al padrone di casa!
+b: Ci farà *NON* tirare un pugno al padrone di casa!
 {{/if}} 
 
 {{if window.HACK_REPLAY.a2_ending=="flight"}}
-b: Ci faranno dare un pugno al solidale anti-cattivi padrone di casa!
+b: Ci farà dare un pugno al solidale anti-cattivi padrone di casa!
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="jump"}}
@@ -79,7 +79,7 @@ h: Beh almeno questa volta potremmo non saltare dal tet-
 {{/if}}
 
 {{if window.HACK_REPLAY.a3_ending=="walkaway"}}
-b: CI FARANNO SALTARE DAL TETTO.
+b: CI FARÀ SALTARE DAL TETTO.
 {{/if}}
 
 `bb({body:"fear"});`
