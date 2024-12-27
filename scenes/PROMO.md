@@ -6,7 +6,7 @@
 
 (...51)
 
-[PLAY!](#intro-start) `publish("intro-to-game-1"); Game.OVERRIDE_CHOICE_LINE=true;`
+[GIOCA!](#intro-start) `publish("intro-to-game-1"); Game.OVERRIDE_CHOICE_LINE=true;`
 
 # intro-start
 
